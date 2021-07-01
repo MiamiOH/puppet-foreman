@@ -1,6 +1,6 @@
 {
   "name": "theforeman-foreman",
-  "version": "17.0.0",
+  "version": "17.0.1",
   "author": "theforeman",
   "summary": "Foreman server configuration",
   "license": "GPL-3.0+",
@@ -14,7 +14,7 @@
   "dependencies": [
     {
       "name": "camptocamp/systemd",
-      "version_requirement": ">= 2.2.0 < 4.0.0"
+      "version_requirement": ">= 3.0.0 < 4.0.0"
     },
     {
       "name": "puppetlabs/apache",

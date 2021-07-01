@@ -1,5 +1,8 @@
 # Changelog
 
+## [17.0.1](https://github.com/theforeman/puppet-foreman/tree/17.0.1) (2021-04-26)
+- update systemd requirements
+
 ## [17.0.0](https://github.com/theforeman/puppet-foreman/tree/17.0.0) (2021-04-26)
 
 [Full Changelog](https://github.com/theforeman/puppet-foreman/compare/16.1.0...17.0.0)
